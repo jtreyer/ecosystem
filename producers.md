@@ -82,6 +82,9 @@ The Telerik TeamPulse Silverlight client interacts with the database using a WCF
 **[tm2o – OData provider for Topic Maps](http://code.google.com/p/tm2o/)**<br>
 TM2O – which is a generic OData provider for Topic Maps. Internally tm2o leverages OData4J
 
+**[Valoptia ABC](http://www.valoptia.com/fr/produit/valoptia-abc-activity-based-costing)
+Valoptia.ABC is a calculation and cost analysis solution for products and services, covering the process up to invoicing. It also exposes cost models data through an OData provider.
+
 **[Webnodes CMS](http://www.webnodes.com/odata)**<br>
 Webnodes CMS is an enterprise quality ASP.NET CMS with a unique semantic content technology. Webnodes recently added OData support. Read more about it here.
 
